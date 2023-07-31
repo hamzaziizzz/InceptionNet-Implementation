@@ -1,4 +1,12 @@
 # InceptionNet-Implementation
+
+<a href="https://medium.com/ai-mind-labs/implementing-inceptionnet-a-journey-into-multi-scale-convolutional-networks-53130a531ff">
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-Read%20Article-white?logo=medium&logoColor=black&labelColor=white&color=grey">
+</a>
+
+<br>
+<br>
+
 Welcome to the InceptionNet implementation repository! Here, you'll find an implementation of the InceptionNet architecture using TensorFlow. InceptionNet is a groundbreaking deep convolutional neural network known for its efficient use of multiple filter sizes in parallel, enabling it to achieve impressive accuracy on image recognition tasks.
 
 ## What is InceptionNet?
